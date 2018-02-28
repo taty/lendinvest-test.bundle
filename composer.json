@@ -1,0 +1,6 @@
+{
+  "require": {
+    "phpunit/phpunit": "^6",
+    "theseer/phpdox": ">0.10"
+  }
+}
